@@ -1,5 +1,9 @@
 # 🔐 CyberSecurity MCP Server
 
+[![Cybersecurity-MCP-Server MCP server](https://glama.ai/mcp/servers/gaoharimran29-glitch/Cybersecurity-MCP-Server/badges/score.svg)](https://glama.ai/mcp/servers/gaoharimran29-glitch/Cybersecurity-MCP-Server)
+
+[![Cybersecurity-MCP-Server MCP server](https://glama.ai/mcp/servers/gaoharimran29-glitch/Cybersecurity-MCP-Server/badges/card.svg)](https://glama.ai/mcp/servers/gaoharimran29-glitch/Cybersecurity-MCP-Server)
+
 A **Model Context Protocol (MCP) server** that gives Claude real-time cybersecurity reconnaissance capabilities. Instead of manually running tools across different terminals, just tell Claude **"analyze google.com"** and get a complete security breakdown instantly.
 
 Built with [FastMCP](https://github.com/jlowin/fastmcp) and Python.
